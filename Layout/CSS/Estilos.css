@@ -11,7 +11,8 @@ body{
     background: #4a465b;
 }
 .contenedor {
-    width: 1000px;
+    width: 90%;
+    max-width: 1000px;
     margin: 20px auto;
     overflow: hidden;
     background: #161f26;;
@@ -37,7 +38,7 @@ header nav ul li a{
     color: black;
 }
 .main{
-    width: 700px;
+    width: 70%;
     background: #fff;
     float: left;
 }
@@ -60,7 +61,7 @@ header nav ul li a{
     line-height: 27px;
 }
 aside{
-    width: 300px;
+    width: 30%;
     background: #161f26;
     padding: 20px;
     color: #fff;
