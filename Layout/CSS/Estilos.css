@@ -100,3 +100,17 @@ footer{
     text-align: center;
     clear: both;
 }
+@media screen and (max-width:800px){
+    body{
+        background: #540557;
+    }
+    .main{
+        width: 100%;
+    }
+    aside{
+        width: 100%;
+    }
+    footer{
+        width: 100%;
+    }
+}
